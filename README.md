@@ -590,5 +590,4 @@ JeecgBoot企业版本默认集成了activiti和flowable两套方案，大家在�
 
 如果觉得还不错，请作者喝杯咖啡吧 ☺
 
-![](https://oscimg.oschina.net/oscnet/up-5ab0e7dcbb078d5bd7e6e5e75cf3f099ff9.jpg)
-![](https://oscimg.oschina.net/oscnet/up-6e60ca22986afcc9130056edeb06c93f4ad.jpg)
+![](https://oscimg.oschina.net/oscnet/up-2f8db77e209f051d0d621a947f8800b72b6.png)
